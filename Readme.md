@@ -1,5 +1,3 @@
-![Portada de DWEC - UT07](./assets/repo-cover-dwec-2026-2027.png)
-
 # DWEC UT07: Librerias complementarias en React.
 Apuntes del módulo de DWEC del ciclo de grado superior de DAW.
 
