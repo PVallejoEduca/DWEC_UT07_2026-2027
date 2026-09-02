@@ -1,3 +1,5 @@
+![Portada de DWEC - UT07](./assets/repo-cover-dwec-2026-2027.png)
+
 # DWEC UT07: Librerias complementarias en React.
 Apuntes del módulo de DWEC del ciclo de grado superior de DAW.
 
@@ -16,4 +18,3 @@ Recopilados, resumidos y traducidos de otros apuntes disponibles en la red:
 * TanStack Query: A Powerful Tool for Data Management in React - [Enlace](https://medium.com/@ignatovich.dm/tanstack-query-a-powerful-tool-for-data-management-in-react-0c5ae6ef037c)
 * How to Use React Context in Your Project - [Enlace](https://www.freecodecamp.org/news/how-to-use-react-context/)
 * Enlaces varios (están en los enlaces de imagenes y debajo de ellas).
-
