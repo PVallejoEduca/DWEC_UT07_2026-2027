@@ -103,12 +103,12 @@ Como vemos aqui tenemos varios apartados importantes:
 <a href="https://www.freecodecamp.org/news/how-to-use-react-context/">
 <img src="./img/ContextAPI.webp" width="80%" height="80%" style="display: block; margin: 0 auto" />
 </a><br>
-<i><a href="https://www.freecodecamp.org/news/how-to-use-react-context/">Aqui podeis encontrar un ejemplo práctico para cambiar el color de apariencia de una web</a></i>
+<i><a href="https://www.freecodecamp.org/news/how-to-use-react-context/">Aqui puedes encontrar un ejemplo práctico para cambiar el color de apariencia de una web</a></i>
 </p>
 
 ## Redux (Redux-toolkit)
 
-Sabemos que existen varias formas de gestionar el estado en React (estado local, contextos, useReducer…) y **Redux** es especialmente útil en proyectos de gran envergadura, donde la comunicación entre distintos nodos se vuelve crucial. Aunque en este ejemplo práctico lo veremos en una aplicación sencilla para que sea más entendible.
+Sabemos que existen varias formas de gestionar el estado en React (estado local, contextos, useReducer…) y **Redux** es especialmente útil en proyectos de gran envergadura, donde la comunicación entre distintos nodos se vuelve crucial. Aunque en este ejemplo práctico lo verás en una aplicación sencilla para que sea más entendible.
 
 Desde sus inicios, Redux ha evolucionado de manera muy positiva, proporcionando a todos los componentes de React una única fuente de verdad a la que pueden acceder y modificar según las necesidades del proyecto.
 
@@ -170,7 +170,7 @@ Esto es exactamente lo que ocurre en una aplicación de React con un solo compon
 <a href="https://www.paradigmadigital.com/dev/como-implementar-redux-react-hooks/">
 <img src="./img/redux.jpg" width="80%" height="80%" style="display: block; margin: 0 auto" />
 </a><br>
-<i><a href="https://www.paradigmadigital.com/dev/como-implementar-redux-react-hooks/">Aqui podeis encontrar un ejemplo práctico mas completo</a></i><br>
+<i><a href="https://www.paradigmadigital.com/dev/como-implementar-redux-react-hooks/">Aqui puedes encontrar un ejemplo práctico mas completo</a></i><br>
 <i><a href="https://embed17.medium.com/getting-started-with-redux-in-reactjs-310317-92a1d895d408">Otro ejemplo práctico mas completo</a></i>
 </p>
 
@@ -206,7 +206,7 @@ const useCounterStore = create((set) => ({
 export default useCounterStore;
 ```
 
-Una vez definido nuestro **store**, podemos utilizarlo en cualquiera de nuestras páginas o componentes dentro de nuestra aplicación. Importándolo y extrayendo los atributos o métodos que vamos a utilizar.
+Una vez definido nuestro **store**, podemos utilizarlo en cualquiera de nuestras páginas o componentes dentro de nuestra aplicación. Importándolo y extrayendo los atributos o métodos que vas a utilizar.
 
 ```jsx
 // App.jsx
@@ -270,5 +270,5 @@ Por otro lado, **useState** es una característica de React que se utiliza para 
 <a href="https://medium.com/@nirpendra09/getting-started-with-zustand-in-react-fe02c1bb2cee">
 <img src="./img/Zustand.webp" width="80%" height="80%" style="display: block; margin: 0 auto" />
 </a><br>
-<i><a href="https://medium.com/@nirpendra09/getting-started-with-zustand-in-react-fe02c1bb2cee">Aqui podeis encontrar un ejemplo práctico mas completo (y caracteristicas más avanzadas)</a></i>
+<i><a href="https://medium.com/@nirpendra09/getting-started-with-zustand-in-react-fe02c1bb2cee">Aqui puedes encontrar un ejemplo práctico mas completo (y caracteristicas más avanzadas)</a></i>
 </p>

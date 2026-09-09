@@ -37,7 +37,7 @@ MUI incluye una gran variedad de componentes, entre los más usados están:
 * **Card** → Tarjetas de contenido. [Enlace](https://mui.com/material-ui/react-card/).
 * **DataGrid** → Tablas avanzadas con paginación y filtros. [Enlace](https://mui.com/x/react-data-grid/?_gl=1*1gcd25f*_up*MQ..*_ga*NTgwNTMzODQxLjE3NzE5MjcxMzM.*_ga_5NXDQLC2ZK*czE3NzE5MjcxMzIkbzEkZzAkdDE3NzE5MjcxMzIkajYwJGwwJGgw).
 
-Aqui podeis ver algunos de los ejemplos mas tipicos de utilización de elementos que podemos utilizar con MUI.
+Aqui puedes ver algunos de los ejemplos mas tipicos de utilización de elementos que podemos utilizar con MUI.
 
 <p align="center"> 
 <img src="./img/MUI.png" width="80%" height="80%" style="display: block; margin: 0 auto" />
@@ -70,7 +70,7 @@ Veamos algunas opciones y como quedarian en el navegador.
 </a>
 </p>
 
-Aqui tenéis otro ejemplo de utilización de 2 `TextFields` para introducir nombre de usuario y contraseña y un `Button` para que podamos enviar esa información a donde veamos oportuno.
+Aqui tienes otro ejemplo de utilización de 2 `TextFields` para introducir nombre de usuario y contraseña y un `Button` para que puedas enviar esa información a donde veas oportuno.
 
 ```jsx
 import Button from '@mui/material/Button';
@@ -155,7 +155,7 @@ MUI se utiliza principalmente cuando **se necesita desarrollar rápidamente una 
 
 En este caso, el funcionamiento de la librería y la de sus componentes es un poco diferente a la de MUI. Pero lo bueno es que en la documentación oficial podréis encontrar multitud de ejemplos y ayuda para su utilización ([Pagina oficial](https://ui.shadcn.com/)).
 
-Aqui teneis un sencillo video para configurar ShadCN utilizando Vite y JS (se siguen los mismos pasos que en el [tutorial](https://ui.shadcn.com/docs/installation/vite) de la pagina oficial).
+Aqui tienes un sencillo video para configurar ShadCN utilizando Vite y JS (se siguen los mismos pasos que en el [tutorial](https://ui.shadcn.com/docs/installation/vite) de la pagina oficial).
 
 <p align="center"> 
 <a href="https://www.youtube.com/watch?v=aMX_DYK5LAk">

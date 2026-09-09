@@ -13,7 +13,7 @@ PAra poder utilizarlo, primero tendremos que instalar la libreria en nuestro pro
 npm i @tanstack/react-query
 ```
 
-Para dejar disponible a **React Query**, debemos envolver los componentes que necesiten consumir datos, su comportamiento o uso es similar a **context API**, en nuestro caso vamos a suponer que estamos en una aplicación pequeña, que tiene una barra de navegación (*Nav*), un banner o Hero, una Galería de imágenes (*Gallery*) y un pie o *Footer*, por lo que vamos a realizar este proceso a nivel de la definición de la aplicación.
+Para dejar disponible a **React Query**, debes envolver los componentes que necesiten consumir datos, su comportamiento o uso es similar a **context API**, en este ejemplo vas a trabajar con una aplicación pequeña, que tiene una barra de navegación (*Nav*), un banner o Hero, una Galería de imágenes (*Gallery*) y un pie o *Footer*, por lo que vas a realizar este proceso a nivel de la definición de la aplicación.
 
 ```jsx
 import { QueryClientProvider, QueryClient } from '@tanstack/react-query';
@@ -126,7 +126,7 @@ export default Gallery
 <a href="https://medium.com/@ignatovich.dm/tanstack-query-a-powerful-tool-for-data-management-in-react-0c5ae6ef037c">
 <img src="./img/tanstack.webp" width="60%" height="60%" style="display: block; margin: 0 auto" />
 </a><br>
-<i><a href="https://medium.com/@ignatovich.dm/tanstack-query-a-powerful-tool-for-data-management-in-react-0c5ae6ef037c">Aqui podeis encontrar un ejemplo práctico mas completo</a></i>
+<i><a href="https://medium.com/@ignatovich.dm/tanstack-query-a-powerful-tool-for-data-management-in-react-0c5ae6ef037c">Aqui puedes encontrar un ejemplo práctico mas completo</a></i>
 </p>
 
 ## SWR (Stale-While-Revalidate)
@@ -161,5 +161,5 @@ Una solicitud puede tener tres estados: "carga", "listo" o "error". El estado ac
 <a href="https://swr.vercel.app/docs/getting-started">
 <img src="./img/swr.avif" width="60%" height="60%" style="display: block; margin: 0 auto" />
 </a><br>
-<i><a href="https://swr.vercel.app/docs/getting-started">Aqui podeis encontrar un ejemplo de la página oficial</a></i>
+<i><a href="https://swr.vercel.app/docs/getting-started">Aqui puedes encontrar un ejemplo de la página oficial</a></i>
 </p>

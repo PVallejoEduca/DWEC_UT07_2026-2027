@@ -299,7 +299,7 @@ function HookForm() {
 <a href="https://www.paradigmadigital.com/dev/desarrollo-formularios-react/">
 <img src="./img/advanced_RHF.gif" width="60%" height="60%" style="display: block; margin: 0 auto" />
 </a><br>
-<i><a href="https://www.paradigmadigital.com/dev/desarrollo-formularios-react/">Aqui podeis encontrar mas ejemplos de uso de Zod</a></i>
+<i><a href="https://www.paradigmadigital.com/dev/desarrollo-formularios-react/">Aqui puedes encontrar mas ejemplos de uso de Zod</a></i>
 </p>
 
 ## Formik
@@ -452,5 +452,5 @@ export default RegistrationForm;
 <a href="https://www.rodalexanderson.com/blog/zod-para-validar">
 <img src="./img/advanced_zod.webp" width="60%" height="60%" style="display: block; margin: 0 auto" />
 </a><br>
-<i><a href="https://www.rodalexanderson.com/blog/zod-para-validar">Aqui podeis encontrar mas ejemplos de uso de Zod</a></i>
+<i><a href="https://www.rodalexanderson.com/blog/zod-para-validar">Aqui puedes encontrar mas ejemplos de uso de Zod</a></i>
 </p>
